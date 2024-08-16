@@ -31,7 +31,8 @@ button{
 /* schermi piccoli */
 @media screen and (max-width: 620px){
     button{
-        padding: 15px;
+        padding: 13px;
+        margin: 2px;
         font-size: x-large;
     }
 }
